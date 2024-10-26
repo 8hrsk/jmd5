@@ -1,10 +1,10 @@
 {
   "name": "@8hrsk/jmd5",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {},
-  "keywords": [],
+  "keywords": [ "md5", "hash", "jmd5" ],
   "author": "8hoursking",
   "license": "ISC",
-  "description": ""
+  "description": "Simple librarry to generate md5 hashes."
 }
